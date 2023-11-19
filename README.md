@@ -1,3 +1,3 @@
 # rsschool-cv
 
-https://github.com/kakhi-varazashvili/rsschool-cv/blob/gh-pages/cv.md
+https://kakhi-varazashvili.github.io/rsschool-cv/cv 
