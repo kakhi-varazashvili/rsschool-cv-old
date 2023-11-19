@@ -96,5 +96,21 @@ function getInterpretation(bmi) {
   }
 }
 
-
 ---
+**Experience:**
+- Freelancer Front-End Developer
+
+  
+**Projects:**
+
+- [Responsive Landing Page](https://github.com/kakhi-varazashvili/Travelo)
+- [Responsive Landing Page](https://github.com/kakhi-varazashvili/Ruft)
+- [TicTacToe Game](https://github.com/kakhi-varazashvili/TicTacToe)
+- [Get Random Color](https://github.com/kakhi-varazashvili/GetRandomColor)
+- [User Register](https://kakhi-varazashvili.github.io/User-Register/)
+- [Maybelline site using API](https://github.com/kakhi-varazashvili/Maybelline_API)
+- [Lottery game](https://kakhi-varazashvili.github.io/Lottery-Game/)
+- [Guess number](https://github.com/kakhi-varazashvili/Guess-Number)
+- [Responsive travel page](https://github.com/kakhi-varazashvili/Travel-Website)
+- [Books with React components](https://github.com/kakhi-varazashvili/Books)
+- [React CSS styles](https://github.com/kakhi-varazashvili/React-CSS-Styles)
