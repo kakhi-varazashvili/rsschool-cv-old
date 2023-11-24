@@ -9,7 +9,6 @@
 - **Location:** Tbilisi, Georgia
 - **Mob:** +995 591221113
 - **Email:** k.varazashvili@gmail.com
-- **Telegram:** Kakhi Varazashvili
 - **LinkedIn:** [Kakhi Varazashvili](https://www.linkedin.com/in/kakhi-varazashvili)
 - **GitHub:** [Kakhi Varazashvili](https://github.com/kakhi-varazashvili)
 
@@ -36,15 +35,15 @@ quickly to new challenges.
   JavaScript/Front-End Course EN 2023Q4 - in process
 
 - **Skillwill**:
-  Front-End Development (React.JS)
-  English Language Course
+    - Front-End Development (React.JS) - 2023
+    - English Language Course - 2023
 
 - **IT Step Academy**:
-  Front-End Development (Angular)
+  Front-End Development (Angular) - 2022
 
 - **University for Foreigners of Perugia (Italy)**:
-    - Italian language course C1 (technical-economic) 2013
-    - Italian language course C1 (technical-economic) 2010
+    - Italian language course C1 (technical-economic) - 2013
+    - Italian language course C1 (technical-economic) - 2010
 
 ---
 
