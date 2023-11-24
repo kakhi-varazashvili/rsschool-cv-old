@@ -43,8 +43,8 @@ quickly to new challenges.
   Front-End Development (Angular)
 
 - **University for Foreigners of Perugia (Italy)**:
-- Italian language course C1 (technical-economic) 2013
-- Italian language course C1 (technical-economic) 2010
+    - Italian language course C1 (technical-economic) 2013
+    - Italian language course C1 (technical-economic) 2010
 
 ---
 
