@@ -72,6 +72,8 @@ quickly to new challenges.
 **Code Example:**
 **JavaScript**
 ---
+
+```
 function calculateBMI() {
   const weight = parseFloat(document.getElementById("weight").value);
   const height = parseFloat(document.getElementById("height").value) / 100; // Convert to meters
@@ -96,6 +98,7 @@ function getInterpretation(bmi) {
   }
 }
 
+```
 ---
 **Experience:**
 - Freelancer Front-End Developer
