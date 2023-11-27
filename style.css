@@ -1,0 +1,257 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html,
+body,
+div,
+span,
+applet,
+object,
+iframe,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+blockquote,
+pre,
+a,
+abbr,
+acronym,
+address,
+big,
+cite,
+code,
+del,
+dfn,
+em,
+img,
+ins,
+kbd,
+q,
+s,
+samp,
+small,
+strike,
+strong,
+sub,
+sup,
+tt,
+var,
+b,
+u,
+i,
+center,
+dl,
+dt,
+dd,
+ol,
+ul,
+li,
+fieldset,
+form,
+label,
+legend,
+table,
+caption,
+tbody,
+tfoot,
+thead,
+tr,
+th,
+td,
+article,
+aside,
+canvas,
+details,
+embed,
+figure,
+figcaption,
+footer,
+header,
+hgroup,
+menu,
+nav,
+output,
+ruby,
+section,
+summary,
+time,
+mark,
+audio,
+video {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article,
+aside,
+details,
+figcaption,
+figure,
+footer,
+header,
+hgroup,
+menu,
+nav,
+section {
+  display: block;
+}
+body {
+  line-height: 1;
+}
+ol,
+ul {
+  list-style: none;
+}
+blockquote,
+q {
+  quotes: none;
+}
+blockquote:before,
+blockquote:after,
+q:before,
+q:after {
+  content: "";
+  content: none;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+}
+a {
+  text-decoration: none;
+}
+* {
+  box-sizing: border-box;
+}
+
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+
+nav {   
+  background-color: rgb(243, 243, 246);
+  overflow: hidden;
+  display: flex;
+  justify-content: center;
+}
+
+nav a {
+  float: left;
+  display: block;
+  color: rgb(9, 9, 9);
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: #ddd;
+  color: black;
+}
+.main {
+  width: 300px;
+  padding: 20px;
+  border: 1px solid #ccc;
+  text-align: center;
+}
+h2 {
+  font-size: 16px;
+  font-family: Arial, sans-serif;
+  font-weight: 600;
+}
+span, a {
+  font-weight: 600;
+  font-size: 14px;
+}
+section {
+    margin-top: 20px;
+}
+.main-div{
+    width: 60%;
+
+justify-content: center;
+}
+header {
+    margin: 0  0 20px;
+}
+.line {
+    height: 2px;
+    width: 100%;
+    background-color: #535353;
+    margin: 7px 0 14px 0;
+}
+h1 {
+    font-size: 20px;
+    font-weight: 900;
+    font-family: Arial, sans-serif;
+    text-align: center;
+
+}
+.edu ul{
+    list-style-type: disc; 
+    color: black; 
+    margin-left: 40px; 
+    font-weight: 400;
+  }
+
+  li {
+    margin-bottom: 8px; 
+  }
+  .ita {
+    list-style-type:none;
+    margin-top: 5px;
+  }
+
+  pre {
+    background-color: #f4f4f4;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+    font-family: "Courier New", monospace;
+  }
+  .title {
+    margin-bottom:5px ;
+  }
+
+  /* FOOTER SECTION */
+
+.footer {
+    margin-top: 80px;
+    width: 100%;
+    display: flex;
+    justify-content:space-around;
+    align-items: center;
+    background-color: rgb(243, 243, 246);
+
+
+}
+.edu {
+    font-weight: 600;
+}
+.skill {
+    list-style-type: disc; 
+    margin-left: 40px; 
+
+
+}
+.edu {
+    font-weight: 400;
+}
+.pr{
+    width: 100%;
+}
